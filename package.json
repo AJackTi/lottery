@@ -1,0 +1,21 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.11",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.7.0"
+  },
+  "dependencies": {
+    "mocha": "^9.1.4"
+  }
+}
